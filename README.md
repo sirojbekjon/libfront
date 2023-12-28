@@ -1,8 +1,12 @@
-# wallet
-it works default port:8080
+## Project runs
+```
+  8080
+```
 
-#NodeJs version 
-v16.16.0
+## NodeJs version
+```
+   v16.16.0
+```
 
 ## Project setup
 ```
