@@ -1,5 +1,9 @@
 # wallet
 it works default port:8080
+
+#NodeJs version 
+v16.16.0
+
 ## Project setup
 ```
 npm install
